@@ -1,1 +1,21 @@
+body{
+    margin : 0px;
+    padding: 0px;
+}
 
+#head_name_01{
+    /*background-color: red;*/
+    margin: 0px 105px 0px 40%;
+    width: 400px;
+    font-size: 22px;
+
+}
+#box_one{
+    width: 30%;
+    border : 1px solid red;
+}
+#article_hade{
+    color: green;
+    margin :12px 0px 0px 100px;
+
+}
